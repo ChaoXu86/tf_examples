@@ -1,6 +1,7 @@
 # tf_examples
 tensorflow examples
 
+* adaboost.ipynb, adaboost example
 * l_tau_ef_kmeans.ipynb, k-means for parsed Ericsson's MME ebm
 * mnist_cnn.ipynb, convolutional neural network for mnist data
 * mnist_nn.ipynb, neural network for mnist data
