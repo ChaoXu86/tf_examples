@@ -8,4 +8,5 @@ tensorflow examples
 * spiral_nn.ipynb, neural network for spiral data (no tensorflow)
 * tf_nearest_neighbor.ipynb, nearest neighbor 
 * tf_traffic_pred_lstm.ipynb, LSTM for traffic prediction
+* tf_auto_gen_lyrics, LSTM for lyrics auto generate
 
